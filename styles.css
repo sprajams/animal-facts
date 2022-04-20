@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: rgb(192, 242, 192);
+}
+
+.animalImgContainer {
+  width: 300px;
+  height: 300px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+.animalImg {
+  width: 100%;
+}
